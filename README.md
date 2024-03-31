@@ -43,3 +43,10 @@ _Replace INSERT_PRODUCT_ID_HERE with the actual ID of the product you want to up
 
 Query Parameter: number=10 (You can change the number as needed.)
 
+
+
+
+**SETUP**
+
+1. Initaiate the Modules by running : npm install
+2. Start the app by running : node index.js (in root directory i.e., ecom_api)
